@@ -1,6 +1,7 @@
 Ikto Project
 =====================================
 This cryptocurrency project is based as a fork of Litecoin for use in Project Iktoslavistan.
+As of now it's still plain old Litecoin, but over time we will expect that to change as the entire Iktoslavistan project grows and evolves.
 
 
 Information about the base cryptocurrency:
